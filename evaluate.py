@@ -1,5 +1,5 @@
 
-
+from sklearn.metrics import classification_report
 
 def evaluate_model(Y_teste, X_teste, model):
     
